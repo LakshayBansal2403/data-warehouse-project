@@ -45,11 +45,8 @@ This project follows the **Bronze → Silver → Gold** Medallion framework to m
 | **Database**                | SQL Server Express                  |
 | **ETL & SQL Development**   | SQL Server Management Studio (SSMS) |
 | **Version Control**         | Git & GitHub                        |
-| **Architecture & Modeling** | DrawIO                              |
-| **Project Management**      | Notion                              |
+| **Architecture & Modeling** | DrawIO                              |                            
 | **Data Source**             | CSV files (ERP & CRM datasets)      |
-
-📌 **Project Planning & Steps:** [Notion Board](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4)
 
 ---
 
